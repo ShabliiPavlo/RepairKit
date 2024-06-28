@@ -1,0 +1,388 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "authentication.already_exist" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "User with this Email already exist"
+          }
+        }
+      }
+    },
+    "authentication.already_have_account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Already have an account?"
+          }
+        }
+      }
+    },
+    "authentication.already_taken" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This user name already taken"
+          }
+        }
+      }
+    },
+    "authentication.and" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "and"
+          }
+        }
+      }
+    },
+    "authentication.caption" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "By clicking Sign Up button, you agreed to our"
+          }
+        }
+      }
+    },
+    "authentication.do_not_have_account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don’t have an account? "
+          }
+        }
+      }
+    },
+    "authentication.email" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "authentication.email_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check your email"
+          }
+        }
+      }
+    },
+    "authentication.forgot_password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forgot password?"
+          }
+        }
+      }
+    },
+    "authentication.found_account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We haven’t found this account"
+          }
+        }
+      }
+    },
+    "authentication.got_it" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Got It"
+          }
+        }
+      }
+    },
+    "authentication.incorrect_password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incorrect Password"
+          }
+        }
+      }
+    },
+    "authentication.invalid_email" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid Email"
+          }
+        }
+      }
+    },
+    "authentication.log_in" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log In"
+          }
+        }
+      }
+    },
+    "authentication.login" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Login"
+          }
+        }
+      }
+    },
+    "authentication.password" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "authentication.password_contain" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password must contain at least 8 characters "
+          }
+        }
+      }
+    },
+    "authentication.privacy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        }
+      }
+    },
+    "authentication.sent" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We have sent password recovery instructions to your email."
+          }
+        }
+      }
+    },
+    "authentication.sign_up" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign Up"
+          }
+        }
+      }
+    },
+    "authentication.terms" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms of Use"
+          }
+        }
+      }
+    },
+    "authentication.username" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Username"
+          }
+        }
+      }
+    },
+    "onboarding.done" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "onboarding.info_text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bla bla"
+          }
+        }
+      }
+    },
+    "onboarding.info_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bla bla"
+          }
+        }
+      }
+    },
+    "onboarding.manage_text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bla bal"
+          }
+        }
+      }
+    },
+    "onboarding.manage_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bla bla"
+          }
+        }
+      }
+    },
+    "onboarding.next" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bla bla"
+          }
+        }
+      }
+    },
+    "onboarding.result_text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bla bla"
+          }
+        }
+      }
+    },
+    "onboarding.result_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bal bla "
+          }
+        }
+      }
+    },
+    "onboarding.type_text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bla bal"
+          }
+        }
+      }
+    },
+    "onboarding.type_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bla bla"
+          }
+        }
+      }
+    },
+    "onboarding.welcome_text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bla bla bal"
+          }
+        }
+      }
+    },
+    "onboarding.welcome_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to RepairKit!"
+          }
+        }
+      }
+    },
+    "recovery.reset" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset my password"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
